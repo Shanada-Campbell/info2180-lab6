@@ -2,4 +2,16 @@
     background-color: purple;
     color: white;
     padding: 15px;
+    font-family: Helvetica;
+}
+
+#results {
+    background-color: lightgrey;
+    color: white;
+    padding: 6px;
+    font-family: Helvetica;
+}
+
+p {
+    font-family: Helvetica;
 }
