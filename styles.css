@@ -1,17 +1,30 @@
 #heading {
-    background-color: purple;
+    background-color: midnightblue;
     color: white;
     padding: 15px;
     font-family: Helvetica;
+    margin-bottom: 5px;
 }
 
-#results {
-    background-color: lightgrey;
-    color: white;
-    padding: 6px;
+#result {
+    color: black;
+    margin-bottom: 10px;
     font-family: Helvetica;
+    padding: 15px;
+}
+
+#define,
+#search {
+   background-color: lightblue;
+   border: 1px thick black;
+   color: black;
 }
 
 p {
     font-family: Helvetica;
+    color: #000;
+}
+
+#section {
+    padding: 15px;
 }
